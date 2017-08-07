@@ -1,0 +1,189 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2008-01-14 12:30+0100\n"
+"Last-Translator: Ignace Nyamagana Butera <nyamsprod@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-15\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: refgenerator.php:16
+msgid "reference #"
+msgstr ""
+
+#: options-refgenerator.php
+msgid "You have successfully uninstall RefGenerator settings."
+msgstr ""
+
+#: options-refgenerator.php
+msgid "You do not have the permission rights to edit refgenerator settings"
+msgstr ""
+
+#: options-refgenerator.php
+msgid "RefGenerator Presentation"
+msgstr ""
+
+#: options-refgenerator.php
+msgid "Welcome to RefGenerator settings center and once again thank you for installing and activating my plugin.RefGenerator will help you provide automatically your post references."
+msgstr ""
+
+#: options-refgenerator.php
+msgid "This admin center will help you setup the plugin and check it against your active template ( HTML and CSS files )."
+msgstr ""
+
+#: options-refgenerator.php
+msgid "You may choose between 2 methods to generate the list:"
+msgstr ""
+
+#: options-refgenerator.php
+msgid "<strong>Simple Mode :</strong> it's the default mode because this one works almost out of the box.<br/><em>Of note,</em> not all the links will be shown ( ie additionals links produce by other plugin may not be shown)."
+msgstr ""
+
+#: options-refgenerator.php
+msgid "<strong>Advanced Mode :</strong> if you understand well wordpress template engine and are able update them, this method is for you<br/><em>Of note,</em> all external links will be shown but you need a javascript enable browser to show the final listing."
+msgstr ""
+
+#: options-refgenerator.php
+msgid "Now that you know everything let's configure the plugin :"
+msgstr ""
+
+#: options-refgenerator.php
+msgid "Set Up RefGenerator"
+msgstr ""
+
+#: options-refgenerator.php
+msgid "Choose the section title"
+msgstr ""
+
+#: options-refgenerator.php
+msgid "This title will appear as refgenerator section title in your post."
+msgstr ""
+
+#: options-refgenerator.php
+msgid "Choose your display method"
+msgstr ""
+
+#: options-refgenerator.php
+msgid "Generated the list using:"
+msgstr ""
+
+#: options-refgenerator.php
+msgid "the Simple Mode"
+msgstr ""
+
+#: options-refgenerator.php
+msgid "the Advanced Mode"
+msgstr ""
+
+#: options-refgenerator.php
+msgid "CSS class for the references container<sup>*</sup>:"
+msgstr ""
+
+#: options-refgenerator.php
+msgid "<sup>*</sup> leave this value unchanged if you don't know what to do"
+msgstr ""
+
+#: options-refgenerator.php
+msgid "Settings from you template"
+msgstr ""
+
+#: options-refgenerator.php
+msgid "Advanced Mode only"
+msgstr ""
+
+#: options-refgenerator.php
+msgid "id attribute for all posts container:"
+msgstr ""
+
+#: options-refgenerator.php
+msgid "post content container tag name:"
+msgstr ""
+
+#: options-refgenerator.php
+msgid "post content container class name:"
+msgstr ""
+
+#: options-refgenerator.php
+msgid "If some of these values does not exist for your template, please add them in your template to enable the Advanced Mode."
+msgstr ""
+
+#: options-refgenerator.php
+msgid "Update Options"
+msgstr ""
+
+#: options-refgenerator.php
+msgid "Troubleshootings"
+msgstr ""
+
+#: options-refgenerator.php
+msgid "If for no reason at all the plugin does not display the list, check the presence of the code hereafter in the <code>footer.php</code> file of your template."
+msgstr ""
+
+#: options-refgenerator.php
+msgid "If this code is not present just add it before the <code>&lt;/body&gt;</code> tag."
+msgstr ""
+
+#: options-refgenerator.php
+msgid "When to display the list"
+msgstr ""
+
+#: options-refgenerator.php
+msgid "RefGenerator list appears at the end of the article. Depending on your theme and audience you may wish to display refgenerator list on :"
+msgstr ""
+
+#: options-refgenerator.php
+msgid "the home page"
+msgstr ""
+
+#: options-refgenerator.php
+msgid "the single page"
+msgstr ""
+
+#: options-refgenerator.php
+msgid "the static page"
+msgstr ""
+
+#: options-refgenerator.php
+msgid "the category page"
+msgstr ""
+
+#: options-refgenerator.php
+msgid "the search page"
+msgstr ""
+
+#: options-refgenerator.php
+msgid "the archives by date page"
+msgstr ""
+
+#: options-refgenerator.php
+msgid "the archives by tag page"
+msgstr ""
+
+#: options-refgenerator.php
+msgid "or on every page"
+msgstr ""
+
+#: options-refgenerator.php
+msgid "By choosing this settings you will overide all other settings"
+msgstr ""
+
+#: options-refgenerator.php
+msgid "RefGenerator Deactivation"
+msgstr ""
+
+#: options-refgenerator.php
+msgid "You will completely remove all RefGenerator settings and be redirected to the plugin interface to de-install RefGenerator from your blog"
+msgstr ""
+
+#: options-refgenerator.php
+msgid "Deinstall RefGenerator"
+msgstr ""
+
+#: options-refgenerator.php
+msgid "Are you sure you want to\\n- Deinstall RefGenerator\\n- Completely remove all its settings ?"
+msgstr ""
